@@ -24,8 +24,9 @@ a:hover {
 }
 
 body {
+  margin-left:40px;
+  margin-right:40px;
   font-family: 'YourChosenFont', sans-serif;
-  margin: 0;
   display: flex;
   min-width: 320px;
   min-height: 100vh;
